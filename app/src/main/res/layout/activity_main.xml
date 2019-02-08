@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/default_navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/default_navigation_view"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/custom_navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/custom_navigation_view"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+</LinearLayout>

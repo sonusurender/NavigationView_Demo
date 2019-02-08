@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationView Demo</string>
+
+    <string name="default_navigation_view">Default Navigation View</string>
+    <string name="custom_navigation_view">Custom Navigation View</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="others">Others</string>
+
+    <!--  Navigation View String Values  -->
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="chat">Chat</string>
+    <string name="notification">Notification</string>
+    <string name="share">Share App</string>
+    <string name="rate">Rate App</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+
+</resources>
